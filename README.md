@@ -12,6 +12,8 @@
 - 💬 Ask me about **DSA, JavaScript, Frontend**
 
 - 📫 How to reach me **divycic1@gmai.com**
+  
+- 👨‍💻 All of my projects are available at **https://inquisitive-klepon-0f41e7.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
