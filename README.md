@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yadivyanshu](https://github.com/yadivyanshu](https://github.com/yadivyanshu?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/yadivyanshu](https://github.com/yadivyanshu?tab=repositories)
 
 - 💬 Ask me about **DSA, JavaScript, Frontend**
 
