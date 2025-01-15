@@ -4,10 +4,10 @@
 
 ### 💻 Technical Skills
 #### **Languages**
-`C` | `C++` | `JavaScript` | `TypeScript` | `Java` | `Python` | `C#` | `SQL` | `HTML/CSS`
+`C` | `C++` | `JavaScript` | `TypeScript` | `Java` | `Python` | `SQL` | `HTML/CSS`
 
 #### **Technologies**
-`React` | `Spring Boot` | `Angular` | `.NET` | `FastAPI` | `GenAI` | `Tailwind CSS`
+`React` | `Spring Boot` | `Angular` | `.NET` | `FastAPI` | `GenAI` 
 
 #### **Developer Tools**
 `Git` | `Docker` | `Postgres` | `Pgvector` | `SSMS` | `DBeaver` | `Google Cloud Platform`  
