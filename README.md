@@ -7,10 +7,10 @@
 `C` | `C++` | `JavaScript` | `TypeScript` | `Java` | `Python` | `SQL` | `HTML/CSS`
 
 #### **Technologies**
-`React` | `Spring Boot` | `Angular` | `.NET` | `FastAPI` | `GenAI` 
+`Node` | `React` | `Spring Boot` | `Angular` | `.NET` | `FastAPI` | `GenAI` 
 
 #### **Developer Tools**
-`Git` | `Docker` | `Postgres` | `Pgvector` | `SSMS` | `DBeaver` | `Google Cloud Platform`  
+`Git` | `Docker` | `Postgres` | `MongoDB` | `Pgvector` | `SSMS` | `DBeaver` | `Google Cloud Platform`  
 `VS Code` | `Visual Studio` | `IntelliJ` | `Postman`
 
 #### **Core Skills**
